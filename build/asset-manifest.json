@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BCCLP2Prova2Bim/static/css/main.7a963e1f.css",
+    "main.js": "/BCCLP2Prova2Bim/static/js/main.dae2823e.js",
+    "index.html": "/BCCLP2Prova2Bim/index.html",
+    "main.7a963e1f.css.map": "/BCCLP2Prova2Bim/static/css/main.7a963e1f.css.map",
+    "main.dae2823e.js.map": "/BCCLP2Prova2Bim/static/js/main.dae2823e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a963e1f.css",
+    "static/js/main.dae2823e.js"
+  ]
+}
